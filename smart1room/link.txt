@@ -4,5 +4,13 @@ https://docs.google.com/presentation/d/1yfrFWfrYh4T_pPf64LH0dUS1xhW7DFB-kdiFVl2f
 머신러닝 기초 (유튜브자료)
 https://www.youtube.com/watch?v=-JWv0ed9R5g&list=PLsS-TVNjbU7clDOjpAZKud3uG8APHDq_M
 
+머신러닝 기초 (코랩자료)
+https://drive.google.com/file/d/15ackYIIIy_OmrjzcHUVAG1g7cEKiGvFB/view?usp=drive_link
+https://drive.google.com/file/d/1EFM4szJBTWt_Hyg3leaXq43wb8a1DuOH/view?usp=drive_link
+https://drive.google.com/file/d/1sAhT3aznhKoCUvUAHOidHEoFqCJpEwfd/view?usp=drive_link
+https://drive.google.com/file/d/1BIR7tHVKGAfTZjWIwWSJEWM4DFh42U8e/view?usp=drive_link
+https://drive.google.com/file/d/1R1F3MPntaaPS2ig9_M8vak7Bfi751NAR/view?usp=drive_link
+https://drive.google.com/file/d/16I_f5ehwg9zPcbHJY0aZquBX-T6MLGoN/view?usp=drive_link
+
 파이썬 기초 (유튜브자료)
 https://www.youtube.com/watch?v=oUtvFOod3ug&list=PLsS-TVNjbU7cdhwa-s-X7CTOIiP761yVP
